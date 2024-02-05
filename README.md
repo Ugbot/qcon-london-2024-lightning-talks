@@ -1,4 +1,4 @@
-# QCon San London 2024 Attendee Lightning Talks
+# QCon London 2024 Attendee Lightning Talks
 
 Are you working on an interesting project? Have you had a major technical breakthrough in your organization? Has your team uncovered insights about new and exciting technologies? **Share with your peers at QCon London!**
 
