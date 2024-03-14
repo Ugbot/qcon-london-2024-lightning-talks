@@ -21,7 +21,7 @@ Are you working on an interesting project? Have you had a major technical breakt
 
 ## Schedule
 - **Monday, April 8**
-  - 11:30am-11:35am: TBD
+  - 11:30am-11:35am: Virtual-thread friendly Go-like channels for Java by [Adam Warski](https://www.linkedin.com/in/adamwarski/)
   - 11:35am-11:40am: TBD
 - **Tuesday, April 9**
   - 11:30am-11:35am: Seven minute reflections – a team practice for increased learning [Kjetil JD](https://www.linkedin.com/in/kjetiljd/)
