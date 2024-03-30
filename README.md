@@ -25,4 +25,4 @@ Are you working on an interesting project? Have you had a major technical breakt
   - 11:35am-11:40am: Effective ensemble programming. Reflections from 2 years of daily practice by [Paul Wild](https://uk.linkedin.com/in/wildpaul)
 - **Tuesday, April 9**
   - 11:30am-11:35am: Seven minute reflections – a team practice for increased learning by [Kjetil JD](https://www.linkedin.com/in/kjetiljd/)
-  - 11:35am-11:40am: Building an online community of professionals who enjoy reading engineering books together by [Miguel Martin](https://twitter.com/miguelbemartin)
+  - 11:35am-11:40am: Building an online community of professionals who enjoy reading engineering books together by [Miguel Martin](https://www.linkedin.com/in/miguelbemartin/)
