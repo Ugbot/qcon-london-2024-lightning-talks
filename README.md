@@ -25,4 +25,4 @@ Are you working on an interesting project? Have you had a major technical breakt
   - 11:35am-11:40am: Effective ensemble programming. Reflections from 2 years of daily practice by [Paul Wild](https://uk.linkedin.com/in/wildpaul)
 - **Tuesday, April 9**
   - 11:30am-11:35am: Seven minute reflections – a team practice for increased learning by [Kjetil JD](https://www.linkedin.com/in/kjetiljd/)
-  - 11:35am-11:40am: TBD
+  - 11:35am-11:40am: agent based modeling techniques for LLM powered Agents - applying 50+ years of simulated behaviour research to LLM agents by [Ben Gamble](https://www.linkedin.com/in/bengamble7/) 
